@@ -1,0 +1,2 @@
+alert("Mozilla is cool")
+

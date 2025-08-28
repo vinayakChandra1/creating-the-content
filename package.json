@@ -1,0 +1,25 @@
+{
+  "name": "quick-walkthrough-of-the-roadmap",
+  "version": "1.0.0",
+  "description": "JUST AN MDN PRACTICE SESSION OF MINE.... You do not need to care about it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayakChandra1/creating-the-content.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayakChandra1/creating-the-content/issues"
+  },
+  "homepage": "https://github.com/vinayakChandra1/creating-the-content#readme",
+  "dependencies": {
+    "bat": "^0.0.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
